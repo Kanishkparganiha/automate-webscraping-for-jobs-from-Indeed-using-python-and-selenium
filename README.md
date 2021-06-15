@@ -1,6 +1,6 @@
 <h1>Extract-job-postings-from-Indeed-using-selenium-and-python</h1>
 Searching for the job posting during post-pandemic might be tedious as there are might job postings but half of them might be from
-the staffing agency which leads to scam email or calls. To save time for differentiating its better to automate the process of extracting from the website and then start applying on the geniune companies. We can check the companies profile on the linkedin to clarify its authenticity. 
+the staffing agency which leads to scam email or calls. To save time for differentiating jobs posting, its better to automate the process of extracting from the website and then start applying on the geniune companies. We can check the companies profile on the linkedin to clarify its authenticity. 
 <h2>Automate Webscraping process for extracting jobs from Indeed website from page 1 to page 6.</h2>
 <ul>
 <li>The script starts with calling chrome driver to open Google chrome and visit Indeed website.
