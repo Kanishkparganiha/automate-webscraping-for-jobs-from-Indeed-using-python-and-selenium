@@ -9,4 +9,7 @@
   <p>The script then extracts all job title, job description and location from page 1 and goes to
   page 2 from extracting the rest. This process continues till it reaches the page 6</p>
   
-  <p></p>
+  <h2>Output</h2>
+  
+  ![image](https://user-images.githubusercontent.com/57468338/122052838-1ed4c500-cdb4-11eb-988d-5114cf4277d7.png)
+
