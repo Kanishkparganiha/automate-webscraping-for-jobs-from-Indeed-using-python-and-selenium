@@ -34,7 +34,7 @@ the staffing agency which leads to scam email or calls. To save time for differe
   <h2>Future Work  </h2>
   <p>Further work will be storing the job posting into a database like connecting the script with postgre to insert daily postings with links and 
   using them for applying or carrying out analysis.
-  Analyis might include differentiating the job posting from staffing agency to actual companies because every 3rd job posting in the Indeed are
+  Analysis might include differentiating the job posting from staffing agency to actual companies because every 3rd job posting in the Indeed are
   from staffing agency rather than from actual companies.
   </p>
   
