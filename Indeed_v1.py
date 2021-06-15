@@ -16,7 +16,7 @@ browser.get(url)
 time.sleep(2)
 
 
-login_payload={'email':'parganiha.k@northeastern.edu','password':'Tenda@220'}
+login_payload={'email':'*****@gmail.com','password':'*******'}
 
 username=browser.find_elements_by_xpath('//input[@id="login-email-input"]')[0]
 username.send_keys(login_payload['email'])
