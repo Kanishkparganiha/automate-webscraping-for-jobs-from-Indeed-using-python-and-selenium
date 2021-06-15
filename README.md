@@ -1,1 +1,1 @@
-# automate-webscraping-for-jobs-from-Indeed-using-python-and-selenium
+extract-job-postings-from-Indeed-using-selenium-and-python
